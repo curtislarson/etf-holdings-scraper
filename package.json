@@ -1,0 +1,24 @@
+{
+  "name": "etf-holdings-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for ETF Holdings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/quackware/etf-holdings-scraper"
+  },
+  "keywords": [
+    "etf",
+    "holdings",
+    "scraper"
+  ],
+  "author": "Curtis Larson",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request-promise": "^3.0.0"
+  }
+}
